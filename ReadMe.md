@@ -1,5 +1,5 @@
 # Requirements
-This project depends on the python modules `numpy`, `scipy`, `matplotlib`, `casadi`, `ffmpeg-python`.
+This project depends on the python modules `numpy`, `scipy`, `matplotlib`, `sklearn'.
 
 ```bash
 pip install numpy scipy matplotlib sklearn

@@ -95,7 +95,7 @@ X_next1 = []
 c = []
 for t in range(final_time):
     u = Gain_opt@x 
-    u1 = Gain_opt@x
+    u1 = Gain@x
     x_next = A@x + B @ u 
     x_next1 = A@x + B @ u 
     c.append(x@Q@x + u@R@u)

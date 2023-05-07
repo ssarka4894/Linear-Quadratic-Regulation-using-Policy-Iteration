@@ -1,5 +1,5 @@
 # Requirements
-This project depends on the python modules `numpy`, `scipy`, `matplotlib`, `sklearn'.
+This project depends on the python modules `numpy`, `scipy`, `matplotlib`, `sklearn`.
 
 ```bash
 pip install numpy scipy matplotlib sklearn
